@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+pokemon_env/Include/
+pokemon_env/Lib/
+pokemon_env/Scripts/
+pokemon_env/pyvenv.cfg
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
